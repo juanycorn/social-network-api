@@ -107,4 +107,4 @@ Use Insomnia or any other API testing tool to interact with the API. The followi
 - createdAt: Date, Set default value to the current timestamp, Use a getter method to format the timestamp on query
 
 ## Walkthrough Video
-[A walkthrough video demonstrating the functionality of the application](https://example.com)
+[walkthrough video](https://app.screencastify.com/v3/watch/8klPaWSa2jXoN3doG3ew)
